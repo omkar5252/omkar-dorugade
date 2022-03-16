@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @omkar5252
-- 👀 I’m interested in devlopment
 - 🌱 I’m currently learning python
 - 📫 How to reach me omkardorugade52@gmail.com
 
