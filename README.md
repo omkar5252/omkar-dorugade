@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkar5252
+- 👋 Hi, I’m Omkar Dorugade (@omkar5252)
 - 🌱 I'm Electrical Engineer but currently learning python
 - 📫 How to reach me omkardorugade52@gmail.com
 
