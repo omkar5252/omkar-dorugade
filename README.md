@@ -9,7 +9,7 @@ After working in core Electrical field . I switch my career in IT field to achie
 * 🌍  I'm based in Mumbai,India
 * ✉️  You can contact me at [omkardorugade52@gmail.com](mailto:omkardorugade52@gmail.com)
 * 🧠  I'm learning Full stack Python
-* ⚡  I'm secretly Spiderman....but dont't tell anyone
+* ⚡  I'm secretly Spiderman....but don't tell anyone
 
 <a href="https://www.twitter.com/omieedorugade" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/omieedorugade?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
