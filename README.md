@@ -1,7 +1,7 @@
 Hi 👋 My name is Omkar dorugade
 ===============================
 
-I'm Electrical Engineer but currently learning Full Stack Python
+I'm Electrical Engineer but currently learning Python
 ----------------------------------------------------------------
 
 After working in core Electrical field . I switch my career in IT field to achieve my passion.
